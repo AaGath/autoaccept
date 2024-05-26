@@ -1,3 +1,4 @@
+pyrogram
 tgcrypto==1.2.3
 dnspython==2.3.0
 motor==3.1.1
