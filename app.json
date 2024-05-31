@@ -9,7 +9,8 @@
         "API_HASH": {"description": "Goto https://my.telegram.org To Obtain This"},
         "BOT_TOKEN": {"description": "Get The Bot Token From https://telegram.dog/BotFather"},
         "ADMINS": {"description": "Your Telegram ID form @Tgraph_Multi_Bot click /id in this bot"},
-        "DB_URL": {"description": "MongoDB URI For https://mongodb.com"}
+        "DB_URL": {"description": "MongoDB URI For https://mongodb.com"},
+        "PICS": {"description": "Add some telegraph link of pictures"}
     },
     "buildpacks": [{"url": "heroku/python"}]
 }
